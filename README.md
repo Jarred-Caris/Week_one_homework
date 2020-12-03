@@ -29,3 +29,5 @@ One issue I did have early on which was part of the assignment was regular commi
 6. Replaced div tags with header, nav, article, aside and footer tags to add semantic html
 7. Consolidated a large amount of css code so html code with identical styling can use same css code instead of repeating itself.
 8. added meta tag for use on mobile devices
+
+[click for page link] (https://jarred-caris.github.io/Week_one_homework/)
